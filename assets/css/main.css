@@ -1,0 +1,25 @@
+.header__button__btn {
+  -webkit-box-shadow: 0 2px 0 #6f9a37;
+          box-shadow: 0 2px 0 #6f9a37;
+}
+
+.navbar__contianer {
+  margin-left: 45px;
+  margin-right: 45px;
+  margin-top: 30px;
+}
+.navbar__contianer .navbar__contianer__img {
+  width: 150px;
+}
+.navbar__contianer .navbar__contianer__img--two {
+  width: 30px;
+  height: 30px;
+}
+
+.started__container {
+  background-color: #f3f5f7;
+}
+
+.one {
+  border-radius: 50%;
+}/*# sourceMappingURL=main.css.map */
